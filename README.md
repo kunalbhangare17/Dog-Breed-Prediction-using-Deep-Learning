@@ -20,3 +20,7 @@ Cross entropy loss.
 we are dealing with the unstructure data set.
 There are about 10000+ images in the training data.
 There are about 10000+ images in the test data.
+
+## Download Files
+
+https://www.kaggle.com/c/dog-breed-identification/data
